@@ -11,6 +11,6 @@
 ### Overview
 ---
 
-[![oliverdhz's GitHub](https://github-readme-stats-jdjl2sl0l-oliverdhz.vercel.app/api?username=oliverdhz&custom_title=My%20Activity&include_all_commits=true&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![oliverdhz's GitHub](https://github-readme-stats-git-dependabot-npmandyarnd-f3fdd3-oliverdhz.vercel.app/api?username=oliverdhz&custom_title=My%20Activity&include_all_commits=true&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![oliverdhz's Languages](https://ggithub-readme-stats-jdjl2sl0l-oliverdhz.vercel.app/api/top-langs/?username=oliverdhz&layout=compact&custom_title=My%20Top%2010&langs_count=10&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
